@@ -27,15 +27,18 @@ These gases rise up in the atmosphere forming a thermal blanket(heat trap) that 
 
 These gases have a mechanism of absorbing heat and since the gas molecules are loosely held together causing them to vibrate after absorbing heat hence transferrring heat to nearby greenhouse molecules, some heat escapes out of the atmosphere and more of the heat back to the surface. This continuous process will keep the planet warm hence causing global warming.
 
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/9ad74c40-327d-4870-a4d7-ee0d85414f1b)
+
 Global warming
 
 What is global warming and its cause?
 
 Global warming is an aspect of climate change, referring to the long-term rise of the planet's temperatures. It is caused by increased concentrations of greenhouse gases in the atmosphere, mainly from human activities such as burning fossil fuels, and farming. Global warming has effects on our environment and these include: Hotter temperatures. As greenhouse gas concentrations rise, so does the global surface temperature. ... More severe storms. ... Increased drought. ... A warming, rising ocean. ... Loss of species. ... Not enough food. ... More health risks. ... Poverty and displacement
 
-Acid Rain Can Cause Health Problems in People Air pollution like sulfur dioxide and nitrogen oxides can cause respiratory diseases, or can make these diseases worse. Respiratory diseases like asthma or chronic bronchitis make it hard for people to breathe. The pollution that causes acid rain can also create tiny particles. When these particles get into people’s lungs, they can cause health problems, or can make existing health problems worse. Also, nitrogen oxides cause ground-level ozone. This ground-level ozone causes respiratory problems, like pneumonia and bronchitis, and can even cause permanent lung damage. The health effects that people have to worry about are not caused by the acid rain, but are caused when people breathe in these tiny particles or ozone. Swimming in an acidic lake or walking in an acidic puddle is no more harmful to people than swimming or walking in clean water.
-
 Acid Rain Harms Forests Acid rain can be extremely harmful to forests. Acid rain that seeps into the ground can dissolve nutrients, such as magnesium and calcium, that trees need to be healthy. Acid rain also causes aluminum to be released into the soil, which makes it difficult for trees to take up water. Trees that are located in mountainous regions at higher elevations, such as spruce or fir trees, are at greater risk because they are exposed to acidic clouds and fog, which contain greater amounts of acid than rain or snow. The acidic clouds and fog strip important nutrients from their leaves and needles. This loss of nutrients makes it easier for infections, insects, and cold weather to damage trees and forests.
+
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/39b5a38c-7e94-4659-a211-833ca98f4d59)
+
 
 Acid Rain Damages Lakes and Streams Without pollution or acid rain, most lakes and streams would have a pH level near 6.5. Acid rain, however, has caused many lakes and streams in the northeast United States and certain other places to have much lower pH levels. In addition, aluminum that is released into the soil eventually ends up in lakes and streams. Unfortunately, this increase in acidity and aluminum levels can be deadly to aquatic wildlife, including phytoplankton, mayflies, rainbow trout, small mouth bass, frogs, spotted salamanders, crayfish, and other creatures that are part of the food web.
 
