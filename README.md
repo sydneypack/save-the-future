@@ -1,6 +1,8 @@
 # save-the-future
 @NAMBASA DORCUS BELINDA FT. SYDNEY WAKABI
 
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/5c359b6a-fb7a-4a64-ad9f-94b85be2c07c)
+
 A world of change, a world without pollution more so air pollution, a world without respiratory diseases due to toxic air , we all need such a world.
 
 INTRODUCTION
@@ -11,8 +13,7 @@ With great desire and hope to live in a pollution and disease free world, we, hu
 
 Air pollution is the introduction of toxic/harmful gases into the atmosphere. This affects our health more so acute and chronic respiratory diseases, causes global warming, heart diseases, Neuropsychiatric complications, and so many other environmental damages as talked about in the findings below.
 
-![image](https://github.com/sydneypack/save-the-future/assets/96417805/5c359b6a-fb7a-4a64-ad9f-94b85be2c07c)
-
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/87292b7b-a914-4c44-95a1-73f26aa3c1f9)
 
 FINDINGS
 ENVIRONMENTAL COMPLICATIONS GLOBAL WARMING AND GREENHOUSE EFFECT
