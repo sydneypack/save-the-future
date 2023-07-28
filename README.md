@@ -16,9 +16,12 @@ Air pollution is the introduction of toxic/harmful gases into the atmosphere. Th
 ![image](https://github.com/sydneypack/save-the-future/assets/96417805/87292b7b-a914-4c44-95a1-73f26aa3c1f9)
 
 FINDINGS
-ENVIRONMENTAL COMPLICATIONS GLOBAL WARMING AND GREENHOUSE EFFECT
 
-GREENHOUSE EFFECT The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface.
+**ENVIRONMENTAL COMPLICATIONS GLOBAL WARMING AND GREENHOUSE EFFECT**
+
+**GREENHOUSE EFFECT** 
+
+The greenhouse effect is the process by which greenhouse gases(carbon dioxide, methane, nitrous oxide) in a planet's atmosphere cause some of the heat radiated from the planet's surface to build up within the planet's surface.
 
 These gases rise up in the atmosphere forming a thermal blanket(heat trap) that traps heat radiated by the earth's surface from ecsaping the earth's surfeace. When the sun radiates heat, a lot of solar radiations enter the earth's atmosphere to the surface causing a short wave length and the surface of the earth radiates less heat back and when it rises, trying to find its way out of the earth's atmosphere, it is trapped by the thermal blanket formed by the greenhouse gases and this surface radiation has a long wavelength because it has low temperatures compared to the radiations from the sun.
 
