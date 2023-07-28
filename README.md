@@ -47,8 +47,13 @@ This problem can become much worse during heavy downpours of rain or when the sn
 Acid Rain Damages Buildings and Objects Acid rain can also have a damaging effect on many objects, including buildings, statues, monuments, and cars. The chemicals found in acid rain can cause paint to peel and stone statues to begin to appear old and worn down, which reduces their value and beauty.
 
 **GENERAL CAUSES OF POLLUTION AND GLOBAL WARMING.**
+
  The Burning of Fossil Fuels
+ 
  Industrial Emission of poisonous fumes such as carbon monoxide, nitrogen dioxide,etc
+ 
  Wildfires due to climate change 
+ 
  Transprotation such as fuel taking vehicles release carbon monoxide
+ 
  Open Burning of Garbage Waste, etc
