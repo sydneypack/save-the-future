@@ -57,3 +57,18 @@ Acid Rain Damages Buildings and Objects Acid rain can also have a damaging effec
  Transprotation such as fuel taking vehicles release carbon monoxide
  
  Open Burning of Garbage Waste, etc
+
+**FIGHTING POLLUTION AND SAVING UGANDA AND THE WORLD AT LARGE.** IT ALL STARTS WITH US!!
+
+According to the World Health Organization (WHO), people in Uganda are more likely to die from air pollution than those in Tanzania, Rwanda, and twice as likely as those in Kenya. The burden of disease (mortality and morbidity) attributable to air pollution in the country has been on the rise in recent years, with Kampala, Uganda's capital, having the second worst air in Africa, according to the AirVisual's 2018 World Air Quality Report. More precisely, the mortality rate for air pollution in Uganda was 155.7 for every 100,000 in 2016.
+
+There are various sources of pollution in Uganda including those due to agricultural, industrial, and municipal waste discharges, dumping, and e-waste. The waste pollutes and alters fragile ecological systems and causes bio-accumulation and bio-concentration of harmful chemicals in organisms, which poses a grave threat to human livelihood.
+
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/07d2cb9b-735f-4bd8-9799-c0835684c332)
+
+CONTROL MEASURES TO TAKE IN ORDER TO REDUCE POLLUTION IN UGANDA.
+
+MISSION ONE
+
+Under Uganda’s Vision 2040, the environment and waste management are pledged to be emphasized in line with the integrated physical planning models. This will entail strict control of pollution, wetland management, waste management and promotion and protection of green areas, open spaces and corridors. At the same time, over the Vision 2040 periodical efforts will be undertaken to attain a green and clean environment with no water and air pollution while conserving the flora and fauna and restoring and adding value to the ecosystems [8].
+
