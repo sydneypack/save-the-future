@@ -66,9 +66,22 @@ There are various sources of pollution in Uganda including those due to agricult
 
 ![image](https://github.com/sydneypack/save-the-future/assets/96417805/07d2cb9b-735f-4bd8-9799-c0835684c332)
 
-CONTROL MEASURES TO TAKE IN ORDER TO REDUCE POLLUTION IN UGANDA.
+**CONTROL MEASURES TO TAKE IN ORDER TO REDUCE POLLUTION IN UGANDA.**
 
-MISSION ONE
+**MISSION ONE**
 
-Under Uganda’s Vision 2040, the environment and waste management are pledged to be emphasized in line with the integrated physical planning models. This will entail strict control of pollution, wetland management, waste management and promotion and protection of green areas, open spaces and corridors. At the same time, over the Vision 2040 periodical efforts will be undertaken to attain a green and clean environment with no water and air pollution while conserving the flora and fauna and restoring and adding value to the ecosystems [8].
+Under Uganda’s Vision 2040, the environment and waste management are pledged to be emphasized in line with the integrated physical planning models. This will entail strict control of pollution, wetland management, waste management and promotion and protection of green areas, open spaces and corridors. At the same time, over the Vision 2040 periodical efforts will be undertaken to attain a green and clean environment with no water and air pollution while conserving the flora and fauna and restoring and adding value to the ecosystems.
+
+**Plant and care for trees**
+Trees absorb carbon dioxide for metabolic pathways such as photosynthese which enables green plants make their own food. Trees also release oxygen into the atmosphere which supports life of living organisms.
+
+**Keep your car in good repair.**
+
+Vehicle pollutants harm our health and contain greenhouse gases that cause climate change. Burning gasoline and diesel fuel creates harmful byproducts like nitrogen dioxide, carbon monoxide, hydrocarbons, benzene, and formaldehyde. In addition, vehicles emit carbon dioxide, the most common human-caused greenhouse gas.
+
+**Don't burn your garbage**
+
+Garbage such as polythene bags should be taken for recycling or even re-using and after they are done with their functions, it is better to model them into other creative models like flower vessels or taken back to the inductry for recycling. This plays a big role in the reduction of air pollution since it does not involve bruning or garbage.
+
+
 
