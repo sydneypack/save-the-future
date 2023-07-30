@@ -1,5 +1,5 @@
 # save-the-future
-**@NAMBASA DORCUS BELINDA FT. SYDNEY WAKABI**
+**@NAMBASA DORCUS BELINDA FT. SYDNEY WAKABI AND MUWANGUZI BENARD E**
 
 ![image](https://github.com/sydneypack/save-the-future/assets/96417805/5c359b6a-fb7a-4a64-ad9f-94b85be2c07c)
 
