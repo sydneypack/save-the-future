@@ -75,6 +75,9 @@ Under Uganda’s Vision 2040, the environment and waste management are pledged t
 **Plant and care for trees**
 Trees absorb carbon dioxide for metabolic pathways such as photosynthese which enables green plants make their own food. Trees also release oxygen into the atmosphere which supports life of living organisms.
 
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/98ccfcce-7b1f-4908-bfff-14c4999f149a)
+
+
 **Keep your car in good repair.**
 
 Vehicle pollutants harm our health and contain greenhouse gases that cause climate change. Burning gasoline and diesel fuel creates harmful byproducts like nitrogen dioxide, carbon monoxide, hydrocarbons, benzene, and formaldehyde. In addition, vehicles emit carbon dioxide, the most common human-caused greenhouse gas.
@@ -82,6 +85,9 @@ Vehicle pollutants harm our health and contain greenhouse gases that cause clima
 **Don't burn your garbage**
 
 Garbage such as polythene bags should be taken for recycling or even re-using and after they are done with their functions, it is better to model them into other creative models like flower vessels or taken back to the inductry for recycling. This plays a big role in the reduction of air pollution since it does not involve bruning or garbage.
+
+![image](https://github.com/sydneypack/save-the-future/assets/96417805/c829786b-87f8-436e-8acc-99eb38e74443)
+
 
 
 
