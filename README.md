@@ -88,6 +88,6 @@ Garbage such as polythene bags should be taken for recycling or even re-using an
 
 ![image](https://github.com/sydneypack/save-the-future/assets/96417805/c829786b-87f8-436e-8acc-99eb38e74443)
 
-
+..
 
 
